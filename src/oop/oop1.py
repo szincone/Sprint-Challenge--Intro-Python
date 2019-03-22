@@ -1,6 +1,6 @@
 # Write classes for the following class hierarchy:
 #
-#  [Vehicle]->[FlightVehicle]->[Starship]
+# [Vehicle]->[FlightVehicle]->[Starship]
 #      |                |
 #      v                v
 # [GroundVehicle]      [Airplane]
