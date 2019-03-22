@@ -20,28 +20,35 @@
 
 
 class Vehicle():
+    # it is base
     pass
 
 
 class GroundVehicle(Vehicle):
+    # vehicle base
     pass
 
 
 class Car(GroundVehicle):
+    # groundvehicle base
     pass
 
 
 class Motorcycle(GroundVehicle):
+    # groundvehicle base
     pass
 
 
 class FlightVehicle(Vehicle):
+    # vehicle base
     pass
 
 
 class Airplane(FlightVehicle):
+    # flightvehicle base
     pass
 
 
 class Starship(FlightVehicle):
+    # flightvehicle base
     pass
